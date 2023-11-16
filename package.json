@@ -1,0 +1,15 @@
+{
+  "name": "markdown-server",
+  "version": "1.0.0",
+  "description": "Servidor para leer y mostrar ficheros md y vistas html ",
+  "main": "APP3.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "author": "Luis Vergara",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^13.0.2",
+    "marked": "^10.0.0"
+  }
+}
